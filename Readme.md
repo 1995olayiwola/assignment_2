@@ -11,6 +11,8 @@ Version Control:
 I installed Git on my local machine and configured it.
 I created a GitHub account and initialized a Git repository for the project.
 I made my first commit to the repository. 
+This is the url for the first repository:
+https://github.com/1995olayiwola/assignment_2.git
 Programming Languages and Runtimes:
 
 I downloaded and installed Python from http://www.python.org (assuming this is the project's required language). I ensured I have the necessary tools to run Python code.
